@@ -122,4 +122,4 @@ id -> email,hp
 ###SQL
 Saya sertakan SQL yang dihasilkan untuk project ini
 jangan lupa menseting database connection nya di
-`ovo/src/main/resources/application.properties
+`ovo/src/main/resources/application.properties`
